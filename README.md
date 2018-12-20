@@ -2,7 +2,7 @@
 ## Homework 5 - Visit the Wikipedia hyperlinks graph!
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyperlink-Wikipedia.svg/800px-Hyperlink-Wikipedia.svg.png)
 
-## This is inside our repository:
+## This is what inside in our repository:
 1. **Resources Folder** : This folder contains 3 files:
 
  * > `'wiki-topcats-categories.txt'`
