@@ -1,7 +1,7 @@
 # ADM_HW5_GROUP6
 ## Homework 5 - Visit the Wikipedia hyperlinks graph!
 
-Github repository for goup & for ADM course 2018/2019 ,Data science , Univerisità la Sapienza di Roma.  <br/>
+Github repository for goup 6 for ADM course 2018/2019 ,Data science , Univerisità la Sapienza di Roma.  <br/>
 This repository contains:  <br/>
 -RQ1: a file in ypnb containg theRQ1 point of the homework  <br/>
 -RQ2: a file in ypnb containg theRQ2 point of the homework  <br/>
