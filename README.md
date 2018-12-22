@@ -6,7 +6,7 @@ This repository contains:  <br/>
 -ADM_HW5_RQ1.ipynb: a file in ipypnb containg theRQ1 point of the homework  <br/>
 -ADM_HW5_RQ2.ipynb: a file in ipypnb containg theRQ2 point of the homework  <br/>
 -A folder called files with two files:<br/>
---medians: containing the ordered medians list for the categories of the graph according to RQ2 <br/>
+--medians: containing the ordered medians(and their categories) list for the categories of the graph according to RQ2(the ranking block) <br/>
 --ordinated_articles.pickle: ordinated list of the articles according to RQ2 <br/>
 *we couldn't upload dists,dictionary used for containing the distances of the shortest paths because(even zipped) is too heavy <br/>
 RQ1 and RQ2 on nbviewer: <br/>
